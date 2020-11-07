@@ -1,6 +1,6 @@
-# DataStrcutresProject1
+# DataStrcutresAssignment1
 
-First project done in SJSU Data Structures class.
+First major assignment done in SJSU Data Structures class.
 
 Access to the code by clicking the src.
 
